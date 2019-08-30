@@ -60,7 +60,7 @@
         "Java",
         "Javascript",
         "Html",
-        "CSS",
+        "CSS"
       ]
     },
     {
@@ -69,8 +69,7 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "Figma",
-        ""
+        "Figma"
       ]
     }
   ],

@@ -1,103 +1,105 @@
-{
-  "basics": {
-    "name": "Sahra Moseby",
-    "label": "Student",
-    "picture": "https://sahramoseby.github.io/images/heisann.png",
-    "email": "smoseby@hawaii.edu",
-    "phone": "808-688-7363",
-    "website": "https://sahramoseby.github.io",
-    "summary": "I am studying for a B.S. in User Experience Design at the University of Bergen. Currently doing a exchange semester at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
-    "location": {
-      "address": "",
-      "postalCode": "96815",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "sahramoseby",
-        "url": "http://github.com/sahramoseby"
-      },
-      {
-        "network": "linkedin",
-        "username": "sahra-moseby",
-        "url": "https://www.linkedin.com/in/sahra-moseby-a18552167/"
-      },
-      {
-        "network": "instagram",
-        "username": "sahramoseby",
-        "url": "http://instagram.com/sahramoseby"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "web development",
-      "keywords": [
-        "Javascript, html, css",
-        "UX",
-        "figma"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "Java",
-        "Javascript",
-        "Html",
-        "CSS"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Git/GitHub",
-        "Figma"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Bergen, Bergen, NORWAY",
-      "area": "User Experience (expected Spring, 2019)",
-      "studyType": "B.S.",
-      "startDate": "2017-08-19",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-        "EXPHIL-SVEM, MEPRO100, MIX101, INFO134, INFO262, MIX102, INFO125, MIX203, MIX202, "
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Fremtind Forsikring",
-      "position": "UX designer - Internship",
-      "website": "https://www.fremtind.no/",
-      "startDate": "2019-06-17",
-      "endDate": "2019-08.01",
-      "summary": "Made an app for a company customer",
-      "highlights": [
-        "Responsible for the design and developing parts the apps front-end.",
-        "Run a design sprint, user testing, and improve the user experience"
-      ]
-    }
-  ]
+{  
+   "basics":{  
+      "name":"Sahra Moseby",
+      "label":"Student",
+      "picture":"https://sahramoseby.github.io/images/heisann.png",
+      "email":"smoseby@hawaii.edu",
+      "phone":"808-688-7363",
+      "website":"https://sahramoseby.github.io",
+      "summary":"I am studying for a B.S. in User Experience Design at the University of Bergen. Currently doing a exchange semester at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
+      "location":{  
+         "address":"",
+         "postalCode":"96815",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[  
+         {  
+            "network":"github",
+            "username":"sahramoseby",
+            "url":"http://github.com/sahramoseby"
+         },
+         {  
+            "network":"linkedin",
+            "username":"sahra-moseby",
+            "url":"https://www.linkedin.com/in/sahra-moseby-a18552167/"
+         },
+         {  
+            "network":"instagram",
+            "username":"sahramoseby",
+            "url":"http://instagram.com/sahramoseby"
+         }
+      ]
+   },
+   "interests":[  
+      {  
+         "name":"web development",
+         "keywords":[  
+            "Javascript, html, css",
+            "UX",
+            "figma"
+         ]
+      },
+      {  
+         "name":"data mining",
+         "keywords":[  
+
+         ]
+      },
+      {  
+         "name":"artificial intelligence",
+         "keywords":[  
+
+         ]
+      }
+   ],
+   "skills":[  
+      {  
+         "name":"Languages and Frameworks",
+         "level":"",
+         "keywords":[  
+            "Java",
+            "Javascript",
+            "Html",
+            "CSS"
+         ]
+      },
+      {  
+         "name":"Toolsets/OS",
+         "level":"",
+         "keywords":[  
+            "MacOS",
+            "Git/GitHub",
+            "Figma"
+         ]
+      }
+   ],
+   "education":[  
+      {  
+         "institution":"University of Bergen, Bergen, NORWAY",
+         "area":"User Experience (expected Spring, 2019)",
+         "studyType":"B.S.",
+         "startDate":"2017-08-19",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[  
+            "EXPHIL-SVEM, MEPRO100, MIX101, INFO134, INFO262, MIX102, INFO125, MIX203, MIX202, "
+         ]
+      }
+   ],
+   "work":[  
+      {  
+         "company":"Fremtind Forsikring",
+         "position":"UX designer - Internship",
+         "website":"https://www.fremtind.no/",
+         "startDate":"2019-06-17",
+         "endDate":"2019-08.01",
+         "summary":"Made an app for a company customer",
+         "highlights":[  
+            "Responsible for the design and developing parts the apps front-end.",
+            "Run a design sprint, user testing, and improve the user experience"
+         ]
+      }
+   ]
 }

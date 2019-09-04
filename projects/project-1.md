@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/single.jpg
 title: "Move it/Flytt det"
-permalink: projects/micromouse
+permalink: projects/moveit
 date: 2019-09-03
 labels:
   - Google Venture Design Sprint

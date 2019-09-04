@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/single.jpg
 title: "Move it/Flytt det"
 permalink: projects/micromouse
 date: 2019-09-03
@@ -13,7 +13,7 @@ summary: My team developed an application giving students the opportunity to mov
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/flyttdet.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/single.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>

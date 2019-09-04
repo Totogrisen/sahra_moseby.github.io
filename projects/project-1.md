@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/long.jpg
+image: images/long.png
 title: "Move it/Flytt det"
 permalink: projects/moveit
 date: 2019-09-03
@@ -13,7 +13,7 @@ summary: My team developed an application giving students the opportunity to mov
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/flyttdet.png">
-  <img class="ui image" src="../images/single.jpg">
+  <img class="ui image" src="../images/single.png">
 </div>
 
 

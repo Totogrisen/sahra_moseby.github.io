@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/single.jpg
+image: images/long.jpg
 title: "Move it/Flytt det"
 permalink: projects/moveit
 date: 2019-09-03

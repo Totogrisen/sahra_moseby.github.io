@@ -14,8 +14,6 @@ summary: My team developed an application giving students the opportunity to mov
 <div class="ui small rounded images">
   <img class="ui image" src="../images/flyttdet.png">
   <img class="ui image" src="../images/single.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
 

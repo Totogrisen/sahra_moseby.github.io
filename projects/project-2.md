@@ -2,24 +2,38 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+title: Life in the west
+permalink: projects/lifeInTheWest
+date: 2019-09-04
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - CSS
+  - HTML
+summary: A responsive web page for finding toilets, clubs and events in Bergen and Stavanger.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+LifeInTheWest is a web page made in one of the classes we took at University of Bergen, spring 2018. The task was to use two optional public datasets, and google maps API, to produce a web page which included a quick- and advanced search. My group made a site that showed all public toilets, clubs and also upcoming events in two different cities of Norway. The site allowed the user to navigate between the different function through a hamburger menu. We offered a quick- and an advanced search on the toilet page, allowing the user to customize the map with toilets fitted for their use. For example, if the user only wanted free toilets, then a search could help him/her to only display toilets without a fee.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+To do this we used the coding languages HTML, CSS and JavaScript. We used a XMLHttp Request to access public datasets in JSON-format, and parsed it to collect the information we needed to run a search. It was possible to sort toilets based on their attributes like fee or sex, after parsing the file from JSON and back to JavaScript. I add a bit of source code at the end of this paragraph. The project was successful and we managed to deliver a perfectly working site on time. 
+
+
+//A function that gets the data from a public dataset
+function hentData(url) {
+    return new Promise(function(resolve, reject) {
+        let xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                    resolve(samling = JSON.parse(xhr.responseText).entries);
+                } else {
+                    reject(xhr.statusText);
+                }
+            };
+        }
+        xhr.send();
+    });
+}

@@ -19,7 +19,7 @@ summary: A responsive web page for finding toilets, clubs and events in Bergen a
 
 To do this we used the coding languages HTML, CSS and JavaScript. We used a XMLHttp Request to access public datasets in JSON-format, and parsed it to collect the information we needed to run a search. It was possible to sort toilets based on their attributes like fee or sex, after parsing the file from JSON and back to JavaScript. I add a bit of source code at the end of this paragraph. The project was successful and we managed to deliver a perfectly working site on time. 
 
-
+```js
 //A function that gets the data from a public dataset
 function hentData(url) {
     return new Promise(function(resolve, reject) {
@@ -37,3 +37,4 @@ function hentData(url) {
         xhr.send();
     });
 }
+```

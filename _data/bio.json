@@ -84,6 +84,17 @@
       "courses": [
         "EXPHIL-SVEM, MEPRO100, MIX101, INFO134, INFO262, MIX102, INFO125, MIX203, MIX202, "
       ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, USA",
+      "area": "Free credits (exchange student)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-26",
+      "endDate": "2019-12-20",
+      "gpa": "",
+      "courses": [
+        "ICS101, ICS314, LTEC112, KRS135, KRS102, ERTH101"
+      ]
     }
   ],
   "work": [

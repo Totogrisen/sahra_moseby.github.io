@@ -17,6 +17,6 @@ My group made the concept of BookSwap in the class “INFO 262 – Interaction d
 
 To thrift books isn’t a new concept, but based on a questionnaire with over 100 students, we realized there isn’t any good platforms for this purpose. Our goal was therefor to make an application with a design inspired by social media, which allowed students to sort syllabus based on class code, ISBN number, title, author, etc.. 
 
-We user tested a high-fidelity prototype on other students to see how they liked it and got great results. The bottom line was clear: the students of Bergen wants our app.
+We user-tested a high-fidelity prototype on other students to see how they liked it and got great results. The bottom line was clear: the students of Bergen wants our app.
 
 

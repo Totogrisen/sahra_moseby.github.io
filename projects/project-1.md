@@ -4,7 +4,7 @@ type: project
 image: images/single.png
 title: "Move it/Flytt det"
 permalink: projects/moveit
-date: 2019-09-03
+date: 2019-04-18
 labels:
   - Google Venture Design Sprint
   - Figma

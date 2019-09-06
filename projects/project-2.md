@@ -4,7 +4,7 @@ type: project
 image: images/livetivest.png
 title: Livet i vest
 permalink: projects/livetIVest
-date: 2019-09-04
+date: 2018-05-13
 labels:
   - Javascript
   - CSS

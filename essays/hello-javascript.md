@@ -15,7 +15,7 @@ I have to admit; this class isn’t my first meeting with JavaScript. I first go
 
 This module I got to repeat knowledge I had forgotten about, and also learn some new things. My new knowledge is mainly about how the teaching takes place here at University of Hawaii at Manoa(UHM). In Norway we we’re taught in large groups, and did the practical tasks in small groups. The small groups in Norway was still larger than our class at UHM this semester. So, I guess that everything isn’t bigger in America after all.
 
-Although at times I find it scary to do frequent tests and assignments in small groups, I have the belief that it provides a great learning benefit. I’m looking forward to getting used to the WOD’s and hope to even enjoy them in a couple weeks. The most important part is that I like the concept and believe the constant problem solving will do wonder for my technical future. 
+Although at times I find it scary to do frequent tests and assignments in small groups, but I do believe that it provides a great learning benefit. I’m looking forward to getting used to the WOD’s and hope to even enjoy them in a couple weeks. The most important part is that I like the concept and believe the constant problem solving will do wonder for my technical future. 
 
 So, this I know: I like JavaScript because it can easily be visualized with HTML and CSS, I am both terrified and curious about the athletic software engineering, I’m going to learn a lot in this class, and I’m definitely going to experience a lot of frustration due to syntax errors. 
 

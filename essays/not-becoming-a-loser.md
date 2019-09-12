@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Console.log("Hello JavaScript, nice meeting you again");
-date: 2019-09-04
+title: Tips for not becoming a loser at Stack Overflow;
+date: 2019-09-11
 labels:
-  - Software Engineering
-  - Learning
-  - JavaScript
+  - Stack Overflow
+  - Smart questions
 ---
 
 #1 Tips for not becoming a loser at Stack Overflow.

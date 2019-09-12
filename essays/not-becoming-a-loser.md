@@ -18,7 +18,7 @@ To illustrate what you’re supposed to do and avoid, am I presenting an example
 
 <h3> The good</h3>
 <img class="ui left floated image" src="../images/good.png">
-https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type
+<a href="https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type">Link to the question</a>
  
 This question is good because it’s both explicit and shows that he has searched for answers elsewhere already. One essential thing about this question is how the goal and the problem are clearly defined, which is important for avoiding open-ended questions and so-called “time-sinks”. After pointing out what he found on other pages, he even links to a similar question at Stack Overflow, describing how the answer was too vague for his purpose. By pointing that out, the hacker knows what didn´t work and also indicates a person that are willing to put some effort in getting his answer. That’s like both 10 points and a loser shield. 
  
@@ -26,8 +26,9 @@ This question is good because it’s both explicit and shows that he has searche
  
 <h3> The bad</h3>
 <img class="ui left floated image" src="../images/bad.png">
+<a href="https://stackoverflow.com/questions/52553189/whats-wrong-with-my-code-please-help-me
+">Link to the question</a>
 
-https://stackoverflow.com/questions/52553189/whats-wrong-with-my-code-please-help-me
 
 In Eric Raymond’s guideline for asking smart questions, he specify how posting your non-working isn´t good enough, it will have you ignored, and you will become one of the losers. In this case the lost soul has included an error, which gave her one answer and five down votes, so I guess that’s something? This question also fails by making the header unattractive, by writing “What’s wrong with my code, please help me”. That doesn’t say anything specific about the problem, and as this example shows, it only got one answer.
 

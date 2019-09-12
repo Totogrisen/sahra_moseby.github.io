@@ -8,8 +8,6 @@ labels:
   - Smart questions
 ---
 
-<title> Tips for not becoming a loser at Stack Overflow.</title>
-
 You can basically compare what the Bible is for the Christians, as what Stack Overflow is to developers. It helps programmers all over the world with their struggles, answer their questions, help them figure out what is right and what is wrong, and tries to point them in the right direction. 
 
 At Stack Overflow you have angels, or so-called “hackers”, that tends to help people with their problems related to development by answering any questions they must have. Until now, Stack Overflow seems like a very welcoming and nice place to visit - but that’s not necessarily the case. Because it all really depends on how you use it, and most importantly: how you ask your question. By asking a bad question, you will be considered a loser, and you will most likely not get an answer for your problem. This is essay will give you some tips on how to avoid becoming a loser at Stack Overflow, based on guidelines defined by Eric Raymond. 

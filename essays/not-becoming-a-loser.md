@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Tips for not becoming a loser at Stack Overflow;
+title: Tips for not becoming a loser at Stack Overflow
 date: 2019-09-11
 labels:
   - Stack Overflow

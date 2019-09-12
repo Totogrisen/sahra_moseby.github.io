@@ -10,14 +10,14 @@ labels:
 
 
 
-You can basically compare what the Bible is for the Christians, as what Stack Overflow is to developers. It helps programmers all over the world with their struggles, answering their questions, helping them figure out what is right and what is wrong, and tries to point them in the right direction (in life). 
+You can basically compare what the Bible is for the Christians, as what Stack Overflow is for programmers. It helps developers all over the world with their struggles, answering their questions, helping them figure out what is right and what is wrong, and tries to point them in the right direction (in life). 
 
 At Stack Overflow you have angels, or so-called “hackers”, that tends to help people with their problems related to development by answering any questions they must have. Until now, Stack Overflow seems like a very welcoming and nice place to be - but that’s not necessarily true. Because it all really depends on how you use it, and most importantly: how you ask your questions. By asking a bad question, you will be considered a loser, and you will most likely not get an answer for your problem. This essay will give you some tips on how to avoid becoming a loser at Stack Overflow, based on guidelines defined by Eric Raymond. 
 
 To illustrate what you’re supposed to do and avoid, am I presenting an example of a good and a bad question asked at Stack Overflow. 
 
 <h3> The good</h3>
-<img class="ui left image" src="../images/good.png">
+<img class="ui left small image" src="../images/good.png">
 <a href="https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type">Link to the question</a>
  
 This question is good because it’s both explicit and shows that he has searched for answers elsewhere already. One essential thing about this question is how the goal and the problem are clearly defined, which is important for avoiding open-ended questions and so-called “time-sinks”. After pointing out what he found on other pages, he even links to a similar question at Stack Overflow, describing how the answer was too vague for his purpose. By pointing that out, the hacker knows what didn´t work and also indicates a person that are willing to put some effort in getting his answer. That’s like both 10 points and a loser shield. 
@@ -25,7 +25,7 @@ This question is good because it’s both explicit and shows that he has searche
  
  
 <h3> The bad</h3>
-<img class="ui left image" src="../images/bad.png">
+<img class="ui left small image" src="../images/bad.png">
 <a href="https://stackoverflow.com/questions/52553189/whats-wrong-with-my-code-please-help-me
 ">Link to the question</a>
 

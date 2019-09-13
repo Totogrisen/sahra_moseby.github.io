@@ -17,7 +17,7 @@ At Stack Overflow you have angels, or so-called “hackers”, that tends to hel
 To illustrate what you’re supposed to do and avoid, am I presenting an example of a good and a bad question asked at Stack Overflow. 
 
 <h3> The good</h3>
-<img class="ui left small image" src="../images/good.png">
+<img class="ui left medium image" src="../images/good.png">
 <a href="https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type">Link to the question</a>
  
 This question is good because it’s both explicit and shows that he has searched for answers elsewhere already. One essential thing about this question is how the goal and the problem are clearly defined, which is important for avoiding open-ended questions and so-called “time-sinks”. After pointing out what he found on other pages, he even links to a similar question at Stack Overflow, describing how the answer was too vague for his purpose. By pointing that out, the hacker knows what didn´t work and also indicates a person that are willing to put some effort in getting his answer. That’s like both 10 points and a loser shield. 
@@ -25,7 +25,7 @@ This question is good because it’s both explicit and shows that he has searche
  
  
 <h3> The bad</h3>
-<img class="ui left small image" src="../images/bad.png">
+<img class="ui left medium image" src="../images/bad.png">
 <a href="https://stackoverflow.com/questions/52553189/whats-wrong-with-my-code-please-help-me
 ">Link to the question</a>
 

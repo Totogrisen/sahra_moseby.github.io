@@ -19,4 +19,7 @@ To thrift books isn’t a new concept, but based on a questionnaire with over 10
 
 We user-tested a high-fidelity prototype on other students to see how they liked it and got great results. The bottom line was clear: the students of Bergen wants our app.
 
+<h3> What i learned </h3>
+During this project I learned how to design and user test according to recognized principles and rules within the domain of user experience. It also reassured me that I had chosen the right path of study, because I had a lot of fun working on this project.
+
 

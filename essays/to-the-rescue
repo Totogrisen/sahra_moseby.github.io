@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Console.log("Hello JavaScript, nice meeting you again");
-date: 2019-09-04
+title: I want to make your life easier.
+date: 2019-09-13
 labels:
   - Software Engineering
-  - Learning
-  - JavaScript
+  - UX 
+  - App development
 ---
 
 <img class="ui medium left floated image" src="../images/ux.png">

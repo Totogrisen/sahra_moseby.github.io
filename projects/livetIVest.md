@@ -12,9 +12,9 @@ labels:
 summary: A responsive web page for finding toilets, clubs and events in Bergen and Stavanger.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/map.png">
 
 <h3>What</h3>
+<img class="ui medium right floated rounded image" src="../images/map.png">
 "Livet i vest" is a responsive web page made in one of the classes I took at the University of Bergen, spring 2018. The task was to use two optional public datasets, and the Google Maps API, to produce a web page which included a quick- and advanced search. My group made a site that showed all public toilets, clubs and also upcoming events in two different cities of Norway. The site allowed the user to navigate between the different function through a hamburger menu. We offered a quick- and an advanced search function on the toilet page, allowing the user to customize the map with toilets fitted for their use. For example, if the user only wanted free toilets, then a search could help him/her to only display toilets without a fee.
 
 <h3>How</h3>

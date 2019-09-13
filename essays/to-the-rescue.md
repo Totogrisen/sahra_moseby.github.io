@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I want to make your life easier.
+title: I want to make your life easier
 date: 2019-09-13
 labels:
   - Software Engineering

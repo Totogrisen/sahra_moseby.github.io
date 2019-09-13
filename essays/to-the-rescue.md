@@ -9,7 +9,7 @@ labels:
   - App development
 ---
 
-<img class="ui small left floated image" src="../images/ux.jpg">
+<img class="ui small right floated image" src="../images/ux.jpg">
 
 
 
@@ -23,7 +23,7 @@ After my first week at University I knew I had made the right choice, because Us
 
 In addition to developing new ideas, we have also learned how to produce solutions designed for great user experiences. With today's diversity of technological services, is it not longer enough to just get a great idea developed,  it has to be appealing to the users. And that's what my major is all about. 
 
-<img class="ui left floated image" src="../images/superhero.png">
+<img class="ui right floated image" src="../images/superhero.png">
 
 <h3>Hello future</h3>
 For the future am I really interested in acquiring both programming and design skills related to app development. In today's society, smartphones are very widespread, constituting a large market for applications. Personally, not a day goes by without annoying me about the interface of several of my apps. I know I’m not alone, and I want to rescue the world from terrible user interfaces, one app at the time. 

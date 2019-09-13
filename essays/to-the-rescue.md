@@ -9,7 +9,7 @@ labels:
   - App development
 ---
 
-<img class="ui medium left floated image" src="../images/ux.png">
+<img class="ui medium left floated image" src="../images/ux.jpg">
 
 
 

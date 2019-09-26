@@ -6,7 +6,8 @@ date: 2019-09-26
 labels:
   - Software Engineering
   - Coding standards
-  - ESLint, IntelliJ IDEA
+  - ESLint
+  - IntelliJ IDEA
 ---
 
 

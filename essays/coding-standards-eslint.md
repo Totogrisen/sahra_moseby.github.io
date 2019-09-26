@@ -20,7 +20,7 @@ For my studies I had considered law, psychology or economics. Mainly because my 
 ESLint with Intellij is the coding standard we are required to use in the course ICS 314. Only by attending class and doing collaborative programming tasks, I experienced for real how different all of us are. One day my partner wants to write the code in a specific way, the next class my new partner doesn't have an opinion, and so it keeps on going. And now I can finally turn to my big coding brother and ask, what should I do?
 
 
-<h3>Hello future</h3>
+<h3>The hunt for a green checkmark</h3>
 <img class="ui right floated image" src="../images/superhero.png">
 Another pro about ESLint with Intellij is the fact that you can see a green checkmark if everything is working correctly, and , when you get the green check mark. And if I’ve done something wrong, ESLint serves me a logic error message. That’s worth an applaus. 
 

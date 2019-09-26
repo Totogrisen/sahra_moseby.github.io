@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: hey
+title: ESLint, the big coding brother I didn't know I had
 date: 2019-09-04
 labels:
   - Software Engineering
-  - Learning
   - JavaScript
+  - IntelliJ IDEA
+  - ESLint
 ---
 
 <img class="ui tiny left floated image" src="../images/js.png">

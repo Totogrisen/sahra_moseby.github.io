@@ -21,7 +21,7 @@ ESLint with Intellij is the coding standard we are required to use in the course
 
 
 <h3>The hunt for a green checkmark</h3>
-<img class="ui right floated image" src="../images/checkmark.png">
+<img class="ui small right floated image" src="../images/checkmark.png">
 Another pro about ESLint with Intellij is the fact that you can see a green checkmark if everything is working correctly, and , when you get the green check mark. And if I’ve done something wrong, ESLint serves me a logic error message. That’s worth an applaus. 
 
 By having defined one standard on how to develop your code, you also reduce the chances of getting mysterious errors at all. 

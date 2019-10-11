@@ -16,11 +16,11 @@ Considering my major being User Experience design, I´m often in a position wher
 
 
 <h3>The pixel struggles</h3>
-<img class="ui tiny right floated image" src="../images/frustration.png">
+<img class="ui small left floated image" src="../images/frustration.png">
 I always tell myself: don’t begin fooling around with the pixel alignments. But after a couple hours trying to make the interface work on my cell phone, the tablet, my friends even bigger phone etc… I find myself adjusting the top margin just a little bit one place, and the padding another place, and so it keeps going on, and BOOM the code is horrible and the interface looks horrible. And yes I know it exists tools like “Media Queries” and “Flexbox” that reduces the need of pixel adjustments. But sadly due to my own experience, it doesn't always work out so great anyways. Sadly, I often spend too much time on the responsive adjustment, instead of improving the user experience design.
 
 <h3>Semantic UI, I love you</h3>
-<img class="ui small left rounded floated image" src="../images/love.png">
+<img class="ui small right rounded floated image" src="../images/love.png">
 The framework Semantic UI was a new experience to me. I must say even though the endlessly amount of intro videos kind of killed me, I’m really happy about it. I do my normal htm and css stuff, splash some UI semantic on top of it, and suddenly I’m a visual designer as well. That’s something to add to my linkedin profile. In my opinion, the best part is that UI semantic makes producing responsive interfaces way to easy. Goodbye pixel adjustments!!
 
 <h3>Well semantic UI - you're not all perfect</h3>

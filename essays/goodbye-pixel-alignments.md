@@ -5,9 +5,9 @@ title: ESLint, the big coding brother I didn't know I had
 date: 2019-09-26
 labels:
   - Software Engineering
-  - Coding standards
-  - ESLint
-  - IntelliJ IDEA
+  - UI framework
+  - UI semantic
+  - Web development
 ---
 
 

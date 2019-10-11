@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ESLint, the big coding brother I didn't know I had
+title: Goodbye pixel alignments
 date: 2019-09-26
 labels:
   - Software Engineering

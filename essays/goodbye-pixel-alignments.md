@@ -1,14 +1,13 @@
-
 ---
 layout: essay
 type: essay
-title: Goodbye pixel alignment
-date: 2019-10-10
+title: ESLint, the big coding brother I didn't know I had
+date: 2019-09-26
 labels:
   - Software Engineering
-  - UI framework
-  - UI semantic
-  - Web development
+  - Coding standards
+  - ESLint
+  - IntelliJ IDEA
 ---
 
 

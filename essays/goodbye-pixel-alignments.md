@@ -16,7 +16,7 @@ Considering my major being User Experience design, I´m often in a position wher
 
 
 <h3>The pixel struggles</h3>
-<img class="ui left floated image" src="../images/frustration.png">
+<img class="ui small left floated image" src="../images/frustration.png">
 I always tell myself: don’t begin fooling around with the pixel alignments. But after a couple hours trying to make the interface work on my cell phone, the tablet, my friends even bigger phone etc… I find myself adjusting the top margin just a little bit one place, and the padding another place, and so it keeps going on, and BOOM the code is horrible and the interface looks horrible. And yes I know it exists tools like “Media Queries” and “Flexbox” that reduces the need of pixel adjustments. But sadly due to my own experience, it doesn't always work out so great anyways. Sadly, I often spend too much time on the responsive adjustment, instead of improving the user experience design.
 
 <h3>Semantic UI, I love you</h3>

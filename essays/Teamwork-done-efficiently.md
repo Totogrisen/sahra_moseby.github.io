@@ -5,8 +5,8 @@ title: Teamwork done efficiently
 date: 2019-12-16
 labels:
   - Software Engineering
-  - UI framework
-  - UI semantic
+  - Agile Project Management
+  - Issue Driven Project Management
   - Web development
 ---
 

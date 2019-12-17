@@ -26,7 +26,6 @@ Issue Driven Project Management is a way of performing Agile Project Management.
 <img class="ui small right rounded floated image" src="../images/teamwork.png">
 Even though my future Project teams might not be using Issue Driven Project Management the way we did, it’s a high risk that they will be using something similar. The fact that I have already experienced a project using Agile Project Management will prepare me for what’s coming. I’m happy with the way it worked out this time, with responsibility divided, the overview of all tasks and the flexibility it allows. So hello future colleagues - I look forward to working with you.
 
-<h3>Hello future colleagues- I look forward to working with you.</h3>
 
 <h3> Sources: </h3>
 Rouse, M. (2018, January). Agile Project Management [Web blog post]. Retrieved December 16, 2019 from: <a href= "https://searchcio.techtarget.com/definition/Agile-project-management">https://searchcio.techtarget.com/definition/Agile-project-management </a>

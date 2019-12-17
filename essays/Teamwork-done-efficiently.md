@@ -29,4 +29,4 @@ Even though my future Project teams might not be using Issue Driven Project Mana
 <h3>Hello future colleagues- I look forward to working with you.</h3>
 
 <h3> Sources: </h3>
-Rouse, M. (2018, January). Agile Project Management [Web blog post]. Retrieved December 16, 2019 from: <a href= "https://searchcio.techtarget.com/definition/Agile-project-management"> </a>
+Rouse, M. (2018, January). Agile Project Management [Web blog post]. Retrieved December 16, 2019 from: <a href= "https://searchcio.techtarget.com/definition/Agile-project-management">https://searchcio.techtarget.com/definition/Agile-project-management </a>

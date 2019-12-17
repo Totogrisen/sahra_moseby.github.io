@@ -6,6 +6,8 @@ date: 2019-12-16
 labels:
   - Software Engineering
   - Web development
+  - Agile Project Management
+  - Issue Driven Project Management
 ---
 
 

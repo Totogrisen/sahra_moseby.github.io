@@ -16,6 +16,8 @@ summary: A web application developed for the University of Hawaii at Manoa commu
 
 During the fall semester of 2019, I exchanged to the University of Hawaii at Manoa. I took the course Software Engineering 1. The final project in this course was to build a web application dedicated to the UH Manoa community. We were working in teams, using with a tech stack we learned to know the earlier months.
  <a href='https://studious-manoa.github.io/'> Here is a link to our Organization GitHub Page for our project.</a>
+  <a href='https://studious-manoa.github.io/'> Link to our Organization GitHub Page</a>
+
  
  Click here: https://studious-manoa.github.io/
  

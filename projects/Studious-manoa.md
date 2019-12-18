@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/landing.png
-title: BookSwap
-permalink: projects/bookSwap
+title: Studious Manoa
+permalink: projects/StudiousManoa
 date: 2018-04-12
 labels:
   - Web Application

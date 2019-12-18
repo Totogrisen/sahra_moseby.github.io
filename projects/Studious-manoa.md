@@ -1,17 +1,18 @@
 ---
 layout: project
 type: project
-image: images/bookSwap.png
+image: images/landing.png
 title: BookSwap
 permalink: projects/bookSwap
 date: 2018-04-12
 labels:
-  - Figma
-  - Google Venture Design Sprint
-summary: An app idea my group and I developed in the class INFO 262(University of Bergen) 
+  - Web Application
+  - Software Engineering
+  - Issue Driven Project Management
+summary: A web application developed for the University of Hawaii at Manoa community, helping students finding suitable study spots.
 ---
 
-<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/bookSwap.png">
+<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/landing.png">
 
 My group made the concept of BookSwap in the class “INFO 262 – Interaction design” at the University of Bergen. It is an application made for students located in Norway, where they easier can thrift required texts. The syllabus fee can be pretty expensive and buying all new isn’t ideal for the student economy. It’s also not eco-friendly to make all students buy new books for all their classes every semester. 
 

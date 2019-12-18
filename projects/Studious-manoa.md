@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/landing.png
 title: Studious Manoa
-permalink: projects/StudiousManoa
-date: 2018-04-12
+permalink: projects/Studious-manoa
+date: 2019-18-12
 labels:
   - Web Application
   - Software Engineering

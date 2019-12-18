@@ -2,42 +2,30 @@
 layout: project
 type: project
 image: images/landing.png
-title: Livet i vest
+title: Studious Manoa
 permalink: projects/studiousManoa
-date: 2018-05-13
+date: 2019-05-17
 labels:
-  - Javascript
-  - CSS
-  - HTML
-summary: A responsive web page for finding toilets, clubs and events in Bergen and Stavanger.
+  - Web Application
+  - Software Engineering
+  - Issue Driven Project Management
+summary: A web application developed for the University of Hawaii at Manoa community, helping students finding suitable study spots.
 ---
 
+<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/landing.png">
 
-<h3>What</h3>
-<img class="ui medium right floated rounded image" src="../images/map.png">
-"Livet i vest" is a responsive web page made in one of the classes I took at the University of Bergen, spring 2018. The task was to use two optional public datasets, and the Google Maps API, to produce a web page which included a quick- and advanced search. My group made a site that showed all public toilets, clubs and also upcoming events in two different cities of Norway. The site allowed the user to navigate between the different function through a hamburger menu. We offered a quick- and an advanced search function on the toilet page, allowing the user to customize the map with toilets fitted for their use. For example, if the user only wanted free toilets, then a search could help him/her to only display toilets without a fee.
+During the fall semester of 2019, I exchanged to the University of Hawaii at Manoa. I took the course Software Engineering 1. The final project in this course was to build a web application dedicated to the UH Manoa community. We were working in teams, using with a tech stack we learned to know the earlier months. 
+    <a href = "https://studious-manoa.github.io/"> Our organization project page</a>
+ 
+ Click here: https://studious-manoa.github.io/
+ 
+<h3> Our Application </h3>
+For our final project, we wanted to look further into the different study spot opportunities campus had to offer. As a new student at UH Manoa, I can confirm that knowing where to study wasn’t easy. We want to provide information about where you can study as a UH Manoa student, and also reveal some hidden pearls around campus. The application would offer the users to add locations and rate them all, so that everyone can find the place best suited for their study habits.
 
-<h3>How</h3>
-To do this we used the coding languages HTML, CSS and JavaScript. We used a XMLHttp Request to access public datasets in JSON-format, and parsed it to collect the information we needed to run a search. It was possible to sort toilets based on their attributes like fee or sex, after parsing the file from JSON and back to JavaScript. A bit of source code is represented at the end of this paragraph. The project was successful and we managed to deliver a perfectly working site on time. 
+<h3> My Contribution </h3>
+I started by making a design mockup of some components in Figma, which is a free online UI tool. Then i started to make the signup, signin and signout pages without any functionality, only focusing on the design. My next task was to add functionality to the different pages. After that I was assigned to fix some design issues.
 
-```js
-//A function that gets the data from a public dataset
-function hentData(url) {
-    return new Promise(function(resolve, reject) {
-        let xhr = new XMLHttpRequest();
-        xhr.open("GET", url);
-        xhr.onreadystatechange = function() {
-            if (xhr.readyState === 4) {
-                if (xhr.status === 200) {
-                    resolve(samling = JSON.parse(xhr.responseText).entries);
-                } else {
-                    reject(xhr.statusText);
-                }
-            };
-        }
-        xhr.send();
-    });
-}
-```
-<h3> What i learned </h3>
-From this project i both got to improve my web development skills, and also got the opportunity to experience how it is to do programming in a group. The cliche is still a winner: communication is key.
+<h3>In person > slack</h3>
+I learned a lot from this course and this project, but it’s especially one thing I want to highlight. We used the issue driven project management strategy to organize out project. The most crucial thing I learned from it is how important in person meetings are. Our biggest struggle was that our time schedules didn’t fit at all. All communication and planning happened in class and on slack, which I believe wasn’t optimal. The reason why I think it wasn’t optimal is because the discussions either had to be short, or you would risk having group members missing out. For example, one Sunday I had over 100 unread messages in Slack, which would be equal to 5 minutes of an in person discussion. So my biggest outcome for future projects is that having regular in person meetings is important, no matter which project, and should be prioritized because it will benefit the entire group.
+
+

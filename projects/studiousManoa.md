@@ -4,7 +4,7 @@ type: project
 image: images/landing.png
 title: Studious Manoa
 permalink: projects/studiousManoa
-date: 2019-05-17
+date: 2019-12-17
 labels:
   - Web Application
   - Software Engineering

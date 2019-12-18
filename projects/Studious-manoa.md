@@ -14,13 +14,15 @@ summary: A web application developed for the University of Hawaii at Manoa commu
 
 <img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/landing.png">
 
-My group made the concept of BookSwap in the class “INFO 262 – Interaction design” at the University of Bergen. It is an application made for students located in Norway, where they easier can thrift required texts. The syllabus fee can be pretty expensive and buying all new isn’t ideal for the student economy. It’s also not eco-friendly to make all students buy new books for all their classes every semester. 
+During the fall semester of 2019, I exchanged to the University of Hawaii at Manoa. I took the course Software Engineering 1. The final project in this course was to build a web application dedicated to the UH Manoa community. We were working in teams, using with a tech stack we learned to know the earlier months. <a href=”https://studious-manoa.github.io/”> Here is a link to our Organization GitHub Page for our project.</a>
 
-To thrift books isn’t a new concept, but based on a questionnaire with over 100 students, we realized there isn’t any good platforms for this purpose. Our goal was therefor to make an application with a design inspired by social media, which allowed students to sort syllabus based on class code, ISBN number, title, author, etc.. 
+<h3> Our Application </h3>
+For our final project, we wanted to look further into the different study spot opportunities campus had to offer. As a new student at UH Manoa, I can confirm that knowing where to study wasn’t easy. We want to provide information about where you can study as a UH Manoa student, and also reveal some hidden pearls around campus. The application would offer the users to add locations and rate them all, so that everyone can find the place best suited for their study habits.
 
-We user-tested a high-fidelity prototype on other students to see how they liked it and got great results. The bottom line was clear: the students of Bergen wants our app.
+<h3> My Contribution </h3>
+I started by making a design mockup of some components in Figma, which is a free online UI tool. Then i started to make the signup, signin and signout pages without any functionality, only focusing on the design. My next task was to add functionality to the different pages. After that I was assigned to fix some design issues.
 
-<h3> What i learned </h3>
-During this project I learned how to design and user test according to recognized principles and rules within the domain of user experience. It also reassured me that I had chosen the right path of study, because I had a lot of fun working on this project.
+<h3>In person > slack</h3>
+I learned a lot from this course and this project, but it’s especially one thing I want to highlight. We used the issue driven project management strategy to organize out project. The most crucial thing I learned from that is how important in person meetings are. Our biggest struggle was that our time schedules didn’t fit at all. All communication and planning happened in class and on slack, which I believe wasn’t optimal. The reason why I think it wasn’t optimal is because the discussions either had to be short, or you would risk having group members missing out. For example, one Sunday I had over 100 unread messages in slack, which would be equal to 10 minutes of an in person conversation. So my biggest outcome for future projects is that having regular in person meetings is important and should be prioritized, because it will benefit the entire group.
 
 
